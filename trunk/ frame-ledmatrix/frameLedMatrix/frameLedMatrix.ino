@@ -1,4 +1,4 @@
-#include <SPI.h>
+//#include <SPI.h>
 #include "font.h"
 #define MATRIX_SIZE  32
 ////////// PIN DEFINATION //////////
